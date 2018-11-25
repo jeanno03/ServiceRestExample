@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Records count="3">
+<Metadata>
+<FieldDefinitions>
+<FieldDefinition id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" name="Control Name" alias="Control_Name" />
+<FieldDefinition id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" name="Nb Antivirus Installes" alias="Nb_Antivirus_Installes" />
+<FieldDefinition id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" name="Nb Postes Travail" alias="Nb_Postes_Travail" />
+<FieldDefinition id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" name="Exploitation Vuln" alias="Exploitation_Vuln" />
+<FieldDefinition id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" name="FormuleToApply" alias="FormuleToApply" />
+<FieldDefinition id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" name="Pourcentage Conformite" alias="Pourcentage_Conformite" />
+<FieldDefinition id="2233" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" name="Ville" alias="Ville" />
+<FieldDefinition id="2244" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" name="Prenom" alias="Prenom" />
+<FieldDefinition id="2255" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" name="Couleure" alias="Couleure" />
+</FieldDefinitions>
+</Metadata>
+<LevelCounts>
+<LevelCount id="287" guid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" count="3" />
+</LevelCounts>
+<Record contentId="3537257" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+<Record contentId="3537250" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+<Field id="2255" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">
+<ListValues>
+<ListValue detail="couleure">Blanc</ListValue>
+<ListValue detail="couleure">Bleu</ListValue>
+</ListValues>
+</Field>
+</Record>
+<Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537257</Field>
+<Field id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" type="2">25</Field>
+<Field id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="2">100</Field>
+<Field id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" type="2">0</Field>
+<Field id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="1">[22679]/[22679]*100</Field>
+<Field id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" type="2" />
+<Field id="2233" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">
+<ListValues>
+<ListValue detail="ville">Paris</ListValue>
+<ListValue detail="ville">Marseille</ListValue>
+</ListValues>
+</Field>
+<Field id="2244" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">
+<ListValues>
+<ListValue detail="personne">Jean</ListValue>
+</ListValues>
+</Field>
+</Record>
+<Record contentId="3537258" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+<Record contentId="3537250" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+<Field id="2255" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">
+<ListValues>
+<ListValue detail="couleure">violet</ListValue>
+<ListValue detail="couleure">jaune</ListValue>
+</ListValues>
+</Field>
+</Record>
+<Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537258</Field>
+<Field id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" type="2">0</Field>
+<Field id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="2">100</Field>
+<Field id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" type="2">15</Field>
+<Field id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="1">100-[22681]</Field>
+<Field id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" type="2" />
+<Field id="2233" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">
+<ListValues>
+<ListValue detail="ville">Orleans</ListValue>
+<ListValue detail="ville">Thiais</ListValue>
+</ListValues>
+</Field>
+<Field id="2244" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">
+<ListValues>
+<ListValue detail="personne">Marc</ListValue>
+</ListValues>
+</Field>
+</Record>
+<Record contentId="3537259" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+<Record contentId="3537250" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+<Field id="2255" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">
+<ListValues>
+<ListValue detail="couleure">violet</ListValue>
+<ListValue detail="couleure">jaune</ListValue>
+</ListValues>
+</Field>
+</Record>
+<Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537259</Field>
+<Field id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" type="2">0,4</Field>
+<Field id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="2">0,6</Field>
+<Field id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" type="2">5</Field>
+<Field id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="1">100*([22678]-[22679])-[22681]</Field>
+<Field id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" type="2" />
+<Field id="2233" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">
+<ListValues>
+<ListValue detail="ville">Charenton</ListValue>
+<ListValue detail="ville">Montreuil</ListValue>
+</ListValues>
+</Field>
+<Field id="2244" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">
+<ListValues>
+<ListValue detail="personne">Franck</ListValue>
+</ListValues>
+</Field>
+</Record>
+</Records>
